@@ -327,10 +327,6 @@ body {
   }
 }
 
-
-
-
-
 /* ----------FIN estilo de la barra de navegación nueva---------- */
 
 
@@ -570,71 +566,12 @@ height: 100%;
 /* Fin Formulario Login */
 
 /* ---------FIN Footer---------- */
-.d-flex {
-  margin-top: 80px; 
-}
-
-form {
-  margin-bottom: 20px; 
-}
-
-footer {
-  margin-top: 50px; 
-  background-color: #1b4796; 
-  color: white; 
-  padding: 10px; 
-}
-
-.direccion {
-  margin-top: 10px;
-}
-
-body {
-  margin: 0;
-  padding: 0;
-}
-
-.menu__wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  background-color: #1b4796;
-  color: #f7a715;; 
-  z-index: 1000; 
-}
-
-.menu__bar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px; 
-}
-
-.menu__bar .logo {
-  text-decoration: none;
-  color: #f7a715;;
-}
-
-.menu__bar nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.menu__bar nav ul li {
-  display: inline-block;
-  margin-right: 20px; /* Ajusta el margen entre elementos de menú según sea necesario */
-}
-
-.menu-icon {
-  display: none; /* Oculta el icono de menú por defecto */
-}
-
-/* Otros estilos existentes... */
 
 
+
+/* ---------Inicio API---------- */
 .map {
   display: block;
 }
+/* ---------FIN API---------- */
 
